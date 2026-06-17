@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-Welcome to my GitHub profile! I'm Kamal Kumar, a Senior Full Stack Engineer focused on building highly scalable, modular software architectures and custom component ecosystems.
+I'm Kamal Kumar, a Senior Full Stack Engineer focused on building highly scalable, modular software architectures and custom component ecosystems.
 
 - 🔭 **I’m currently working on**: Building a modular, multi-region car marketplace using Laravel, Livewire 4, Tailwind CSS v4, and MySQL with integrated Google OAuth.
 - 🌱 **I’m currently learning**: Mastering the reactive features and architectural optimizations inside the new Livewire 4 framework.
