@@ -39,23 +39,6 @@ I am a high-impact **Senior Full Stack Engineer** and **MEAN/MERN Architect** wi
 
 ---
 
-## 💼 Professional Highlights
-
-- **Senior Web Developer at Cognizant** (Oct 2021 - Present)
-  - Spearheaded the migration of a massive monolithic Angular application into a Micro-Frontend architecture using Webpack Module Federation, reducing release conflicts by **60%**.
-  - Led the transition of core backend services to AWS Lambda, optimizing scalability and reducing cloud spend.
-  - Built a proprietary UI library to replace rigid third-party packages, unlocking higher customizability and performance.
-  
-- **Full Stack Web Developer at MetLife Global Operations** (Aug 2018 - Oct 2021)
-  - Refactored legacy jQuery codebases into modern modular Angular components, significantly improving system maintainability.
-  - Designed responsive insurance portals utilizing RxJS for complex asynchronous data flow.
-
-- **Software Engineer at ProProfs.com** (Mar 2017 - Aug 2018)
-  - Core developer for "Survey Maker" SaaS; implemented complex branching and skip logic engines using PHP and MySQL.
-  - Integrated OAuth (Google/Facebook), payment gateways, and engineered cross-domain iframe embedding widgets using CORS.
-
----
-
 ## 📈 GitHub Stats
 
 <p align="left">
